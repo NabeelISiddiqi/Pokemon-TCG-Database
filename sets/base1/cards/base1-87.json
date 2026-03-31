@@ -1,0 +1,19 @@
+{
+  "id": "base1-87",
+  "name": "Pokédex",
+  "supertype": "Trainer",
+  "rules": [
+    "Look at up to 5 cards from the top of your deck and rearrange them as you like."
+  ],
+  "number": "87",
+  "artist": "Keiji Kinebuchi",
+  "rarity": "Uncommon",
+  "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+  },
+  "images": {
+    "small": "https://images.pokemontcg.io/base1/87.png",
+    "large": "https://images.pokemontcg.io/base1/87_hires.png"
+  }
+}
