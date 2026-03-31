@@ -1,0 +1,18 @@
+{
+  "id": "base1-71",
+  "name": "Computer Search",
+  "supertype": "Trainer",
+  "rules": [
+    "Discard 2 of the other cards from your hand in order to search your deck for any card and put it into your hand. Shuffle your deck afterward."
+  ],
+  "number": "71",
+  "artist": "Keiji Kinebuchi",
+  "rarity": "Rare",
+  "legalities": {
+    "unlimited": "Legal"
+  },
+  "images": {
+    "small": "https://images.pokemontcg.io/base1/71.png",
+    "large": "https://images.pokemontcg.io/base1/71_hires.png"
+  }
+}
