@@ -1,0 +1,18 @@
+{
+  "id": "base1-78",
+  "name": "Scoop Up",
+  "supertype": "Trainer",
+  "rules": [
+    "Choose 1 of your Pokémon in play and return its Basic Pokémon card to your hand. (Discard all cards attached to that card.)"
+  ],
+  "number": "78",
+  "artist": "Keiji Kinebuchi",
+  "rarity": "Rare",
+  "legalities": {
+    "unlimited": "Legal"
+  },
+  "images": {
+    "small": "https://images.pokemontcg.io/base1/78.png",
+    "large": "https://images.pokemontcg.io/base1/78_hires.png"
+  }
+}
