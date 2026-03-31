@@ -1,0 +1,18 @@
+{
+  "id": "base1-93",
+  "name": "Gust of Wind",
+  "supertype": "Trainer",
+  "rules": [
+    "Choose 1 of your opponent's Benched Pokémon and switch it with his or her Active Pokémon."
+  ],
+  "number": "93",
+  "artist": "Keiji Kinebuchi",
+  "rarity": "Common",
+  "legalities": {
+    "unlimited": "Legal"
+  },
+  "images": {
+    "small": "https://images.pokemontcg.io/base1/93.png",
+    "large": "https://images.pokemontcg.io/base1/93_hires.png"
+  }
+}
