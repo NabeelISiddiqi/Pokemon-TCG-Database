@@ -1,0 +1,22 @@
+{
+  "id": "base1-96",
+  "name": "Double Colorless Energy",
+  "supertype": "Energy",
+  "subtypes": [
+    "Special"
+  ],
+  "rules": [
+    "Provides ColorlessColorless energy.\nDoesn't count as a basic Energy card."
+  ],
+  "number": "96",
+  "artist": "Keiji Kinebuchi",
+  "rarity": "Uncommon",
+  "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+  },
+  "images": {
+    "small": "https://images.pokemontcg.io/base1/96.png",
+    "large": "https://images.pokemontcg.io/base1/96_hires.png"
+  }
+}
