@@ -1,0 +1,19 @@
+{
+  "id": "base1-98",
+  "name": "Fire Energy",
+  "supertype": "Energy",
+  "subtypes": [
+    "Basic"
+  ],
+  "number": "98",
+  "artist": "Keiji Kinebuchi",
+  "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+  },
+  "images": {
+    "small": "https://images.pokemontcg.io/base1/98.png",
+    "large": "https://images.pokemontcg.io/base1/98_hires.png"
+  }
+}
