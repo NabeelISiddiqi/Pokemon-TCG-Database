@@ -1,0 +1,18 @@
+{
+  "id": "base1-75",
+  "name": "Lass",
+  "supertype": "Trainer",
+  "rules": [
+    "You and your opponent show each other your hands, then shuffle all the Trainer cards from your hands into your decks."
+  ],
+  "number": "75",
+  "artist": "Ken Sugimori",
+  "rarity": "Rare",
+  "legalities": {
+    "unlimited": "Legal"
+  },
+  "images": {
+    "small": "https://images.pokemontcg.io/base1/75.png",
+    "large": "https://images.pokemontcg.io/base1/75_hires.png"
+  }
+}
