@@ -1,0 +1,53 @@
+{
+  "id": "base1-61",
+  "name": "Rattata",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "level": "9",
+  "hp": "30",
+  "types": [
+    "Colorless"
+  ],
+  "evolvesTo": [
+    "Raticate"
+  ],
+  "attacks": [
+    {
+      "name": "Bite",
+      "cost": [
+        "Colorless"
+      ],
+      "convertedEnergyCost": 1,
+      "damage": "20",
+      "text": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "×2"
+    }
+  ],
+  "resistances": [
+    {
+      "type": "Psychic",
+      "value": "-30"
+    }
+  ],
+  "number": "61",
+  "artist": "Mitsuhiro Arita",
+  "rarity": "Common",
+  "flavorText": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+  "nationalPokedexNumbers": [
+    19
+  ],
+  "legalities": {
+    "unlimited": "Legal"
+  },
+  "images": {
+    "small": "https://images.pokemontcg.io/base1/61.png",
+    "large": "https://images.pokemontcg.io/base1/61_hires.png"
+  }
+}
