@@ -1,0 +1,20 @@
+{
+  "id": "base1-95",
+  "name": "Switch",
+  "supertype": "Trainer",
+  "rules": [
+    "Switch 1 of your own Benched Pokémon with your Active Pokémon."
+  ],
+  "number": "95",
+  "artist": "Keiji Kinebuchi",
+  "rarity": "Common",
+  "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+  },
+  "images": {
+    "small": "https://images.pokemontcg.io/base1/95.png",
+    "large": "https://images.pokemontcg.io/base1/95_hires.png"
+  }
+}
