@@ -1,0 +1,19 @@
+{
+  "id": "base1-102",
+  "name": "Water Energy",
+  "supertype": "Energy",
+  "subtypes": [
+    "Basic"
+  ],
+  "number": "102",
+  "artist": "Keiji Kinebuchi",
+  "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+  },
+  "images": {
+    "small": "https://images.pokemontcg.io/base1/102.png",
+    "large": "https://images.pokemontcg.io/base1/102_hires.png"
+  }
+}
