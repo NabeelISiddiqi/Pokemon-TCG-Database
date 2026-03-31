@@ -1,0 +1,18 @@
+{
+  "id": "base1-82",
+  "name": "Full Heal",
+  "supertype": "Trainer",
+  "rules": [
+    "Your Active Pokémon is no longer Asleep, Confused, Paralyzed, or Poisoned."
+  ],
+  "number": "82",
+  "artist": "Keiji Kinebuchi",
+  "rarity": "Uncommon",
+  "legalities": {
+    "unlimited": "Legal"
+  },
+  "images": {
+    "small": "https://images.pokemontcg.io/base1/82.png",
+    "large": "https://images.pokemontcg.io/base1/82_hires.png"
+  }
+}
