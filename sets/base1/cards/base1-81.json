@@ -1,0 +1,20 @@
+{
+  "id": "base1-81",
+  "name": "Energy Retrieval",
+  "supertype": "Trainer",
+  "rules": [
+    "Trade 1 of the other cards in your hand for up to 2 basic Energy cards from your discard pile."
+  ],
+  "number": "81",
+  "artist": "Keiji Kinebuchi",
+  "rarity": "Uncommon",
+  "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+  },
+  "images": {
+    "small": "https://images.pokemontcg.io/base1/81.png",
+    "large": "https://images.pokemontcg.io/base1/81_hires.png"
+  }
+}
