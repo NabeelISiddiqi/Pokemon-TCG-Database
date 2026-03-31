@@ -1,0 +1,19 @@
+{
+  "id": "base1-83",
+  "name": "Maintenance",
+  "supertype": "Trainer",
+  "rules": [
+    "Shuffle 2 of the other cards from your hand into your deck in order to draw a card."
+  ],
+  "number": "83",
+  "artist": "Keiji Kinebuchi",
+  "rarity": "Uncommon",
+  "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+  },
+  "images": {
+    "small": "https://images.pokemontcg.io/base1/83.png",
+    "large": "https://images.pokemontcg.io/base1/83_hires.png"
+  }
+}
