@@ -1,0 +1,18 @@
+{
+  "id": "base1-90",
+  "name": "Super Potion",
+  "supertype": "Trainer",
+  "rules": [
+    "Discard 1 Energy card attached to your own Pokémon in order to remove up to 4 damage counters from that Pokémon."
+  ],
+  "number": "90",
+  "artist": "Keiji Kinebuchi",
+  "rarity": "Uncommon",
+  "legalities": {
+    "unlimited": "Legal"
+  },
+  "images": {
+    "small": "https://images.pokemontcg.io/base1/90.png",
+    "large": "https://images.pokemontcg.io/base1/90_hires.png"
+  }
+}
