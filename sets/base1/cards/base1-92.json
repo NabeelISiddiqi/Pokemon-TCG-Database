@@ -1,0 +1,18 @@
+{
+  "id": "base1-92",
+  "name": "Energy Removal",
+  "supertype": "Trainer",
+  "rules": [
+    "Choose 1 Energy card attached to 1 of your opponent's Pokémon and discard it."
+  ],
+  "number": "92",
+  "artist": "Keiji Kinebuchi",
+  "rarity": "Common",
+  "legalities": {
+    "unlimited": "Legal"
+  },
+  "images": {
+    "small": "https://images.pokemontcg.io/base1/92.png",
+    "large": "https://images.pokemontcg.io/base1/92_hires.png"
+  }
+}
