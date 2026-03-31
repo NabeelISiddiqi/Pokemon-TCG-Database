@@ -1,0 +1,18 @@
+{
+  "id": "base1-91",
+  "name": "Bill",
+  "supertype": "Trainer",
+  "rules": [
+    "Draw 2 cards."
+  ],
+  "number": "91",
+  "artist": "Ken Sugimori",
+  "rarity": "Common",
+  "legalities": {
+    "unlimited": "Legal"
+  },
+  "images": {
+    "small": "https://images.pokemontcg.io/base1/91.png",
+    "large": "https://images.pokemontcg.io/base1/91_hires.png"
+  }
+}
