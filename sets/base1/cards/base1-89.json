@@ -1,0 +1,18 @@
+{
+  "id": "base1-89",
+  "name": "Revive",
+  "supertype": "Trainer",
+  "rules": [
+    "Put 1 Basic Pokémon card from your discard pile onto your Bench. Put damage counters on that Pokémon equal to half its HP (rounded down to the nearest 10). (You can't play Revive if your Bench is full.)"
+  ],
+  "number": "89",
+  "artist": "Keiji Kinebuchi",
+  "rarity": "Uncommon",
+  "legalities": {
+    "unlimited": "Legal"
+  },
+  "images": {
+    "small": "https://images.pokemontcg.io/base1/89.png",
+    "large": "https://images.pokemontcg.io/base1/89_hires.png"
+  }
+}
