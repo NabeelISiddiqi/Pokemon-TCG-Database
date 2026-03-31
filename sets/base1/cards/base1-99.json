@@ -1,0 +1,19 @@
+{
+  "id": "base1-99",
+  "name": "Grass Energy",
+  "supertype": "Energy",
+  "subtypes": [
+    "Basic"
+  ],
+  "number": "99",
+  "artist": "Keiji Kinebuchi",
+  "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+  },
+  "images": {
+    "small": "https://images.pokemontcg.io/base1/99.png",
+    "large": "https://images.pokemontcg.io/base1/99_hires.png"
+  }
+}
