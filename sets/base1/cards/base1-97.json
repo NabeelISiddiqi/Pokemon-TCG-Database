@@ -1,0 +1,19 @@
+{
+  "id": "base1-97",
+  "name": "Fighting Energy",
+  "supertype": "Energy",
+  "subtypes": [
+    "Basic"
+  ],
+  "number": "97",
+  "artist": "Keiji Kinebuchi",
+  "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+  },
+  "images": {
+    "small": "https://images.pokemontcg.io/base1/97.png",
+    "large": "https://images.pokemontcg.io/base1/97_hires.png"
+  }
+}
