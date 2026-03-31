@@ -1,0 +1,18 @@
+{
+  "id": "base1-88",
+  "name": "Professor Oak",
+  "supertype": "Trainer",
+  "rules": [
+    "Discard your hand, then draw 7 cards."
+  ],
+  "number": "88",
+  "artist": "Ken Sugimori",
+  "rarity": "Uncommon",
+  "legalities": {
+    "unlimited": "Legal"
+  },
+  "images": {
+    "small": "https://images.pokemontcg.io/base1/88.png",
+    "large": "https://images.pokemontcg.io/base1/88_hires.png"
+  }
+}
